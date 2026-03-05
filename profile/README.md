@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../logo.png" alt="Kivora" width="64" />
+  <img src="../logo.png" alt="Kivora" width="64" style="border-radius: '10px'" />
 </p>
 
 <h1 align="center">Kivora</h1>
